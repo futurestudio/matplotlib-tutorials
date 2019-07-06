@@ -1,5 +1,5 @@
 # Node.js tutorials
-This repository includes examples for the [matplotlib tutorials published on Future Studio](#TODO).
+This repository includes examples for the [matplotlib tutorials published on Future Studio](https://futurestud.io/tutorials/tag/matplotlib).
 
 
 ------
@@ -13,4 +13,4 @@ Join the <a href="https://futurestud.io/university">Future Studio University and
 
 ## Tutorials
 
-- [Getting Started with High-Quality Plots in Python](#TODO)
+- [Getting Started with High-Quality Plots in Python](https://futurestud.io/tutorials/matplotlib-getting-started-with-high-quality-plots-in-python)
