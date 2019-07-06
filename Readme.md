@@ -1,4 +1,4 @@
-# Node.js tutorials
+# matplotlib tutorials
 This repository includes examples for the [matplotlib tutorials published on Future Studio](https://futurestud.io/tutorials/tag/matplotlib).
 
 
