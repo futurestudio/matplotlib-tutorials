@@ -45,5 +45,3 @@ def scatter_plot_limits():
     plt.ylabel('Y Axis Label')
     plt.ylim(0)
     plt.show()
-
-scatter_plot_custom_design()
