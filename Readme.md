@@ -14,3 +14,4 @@ Join the <a href="https://futurestud.io/university">Future Studio University and
 ## Tutorials
 
 - [Getting Started with High-Quality Plots in Python](https://futurestud.io/tutorials/matplotlib-getting-started-with-high-quality-plots-in-python)
+- [Simple Line Plots](https://futurestud.io/tutorials/matplotlib-simple-line-plots)
