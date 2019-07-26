@@ -50,4 +50,13 @@ def save_as_jpg():
     plt.ylabel('Number of futurestud.io Tutorials')
 
     # some options are only available for JPG
-    plt.savefig('line_plot.jpg', dpi=300, quality=90, optimize=True, progressive=True)
+    plt.savefig('line_plot.jpg', dpi=300)
+
+
+def save_as_jpg_optimize():
+    plt.plot(year, tutorial_count, color="#6c3376", linewidth=3)
+    plt.xlabel('Year')
+    plt.ylabel('Number of futurestud.io Tutorials')
+
+    # some options are only available for JPG
+    plt.savefig('line_plot_optimized.jpg', dpi=300, quality=80, optimize=True, progressive=True)
