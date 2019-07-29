@@ -38,8 +38,3 @@ def labels_background():
     plt.ylabel('Number of futurestud.io Tutorials', backgroundcolor='red', fontsize='small')
 
     plt.show()
-
-
-labels_simple()
-labels_font()
-labels_background()
